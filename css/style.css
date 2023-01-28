@@ -1,4 +1,6 @@
 body {
+    width: 100vw;
+    height: 100vh;
     background-color: hsl(212, 66%, 79%);
     min-height: 30vh;
     display: flex;
@@ -14,7 +16,6 @@ body {
     background-color: white;
     cursor: pointer;
     max-width: 348px;
-    transform: translate(9%, 50%);
     font-family: 'poppins';
 }
 
